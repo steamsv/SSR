@@ -1,7 +1,9 @@
 ssr-python
+
 一个Shell脚本，集成SSR多用户管理，流量限制，加密更改等基本操作。是一个基于ShadowsocksR官方的mujson的辅助脚本。方便用户操作，并且支持快速构建SSR服务环境。
 
 系统支持
+
 Ubuntu 14
 Ubuntu 16
 Debian 7
